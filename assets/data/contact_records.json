@@ -1,0 +1,187 @@
+[
+  {
+    "id": "2342334234242",
+    "avatar": "default",
+    "hasAvatar": true,
+    "userName": "周润华",
+    "letter": "华",
+    "children": [
+      {
+        "backName": "招商银行",
+        "backCode": "6214 0000 2038 0928",
+        "icon": "CMB",
+        "type": "储蓄卡"
+      },
+      {
+        "backName": "中国银行",
+        "backCode": "6224 0192 9928 9824 102",
+        "icon": "BOC",
+        "type": "储蓄卡"
+      },
+      {
+        "backName": "北京银行",
+        "backCode": "6214 0284 9927 0658",
+        "icon": "BOB",
+        "type": "储蓄卡"
+      }
+    ],
+    "account": "13000008810",
+    "isNew": false,
+    "isUnionPayAccount": false,
+    "icon": "",
+    "backName": "",
+    "type": "",
+    "backCode": ""
+  },
+  {
+    "id": "23334234242",
+    "hasAvatar": false,
+    "avatar": "",
+    "userName": "伍成功",
+    "letter": "功",
+    "children": [
+    ],
+    "account": "18900029836",
+    "isNew": false,
+    "isUnionPayAccount": true,
+    "icon": "",
+    "backName": "",
+    "type": "",
+    "backCode": ""
+  },
+  {
+    "id": "234233234242",
+    "hasAvatar": false,
+    "avatar": "",
+    "userName": "李若涵",
+    "letter": "涵",
+    "children": [
+    ],
+    "icon": "HSBC",
+    "backName": "汇丰银行",
+    "type": "储蓄卡",
+    "backCode": "6214 0298 0987 0092",
+    "isNew": true,
+    "isUnionPayAccount": false
+  },
+  {
+    "id": "234233423424221",
+    "hasAvatar": false,
+    "avatar": "",
+    "userName": "姜振超",
+    "letter": "超",
+    "children": [
+    ],
+    "icon": "BOC",
+    "backName": "中国银行",
+    "type": "储蓄卡",
+    "backCode": "6214 0298 0987 9281",
+    "isNew": false,
+    "isUnionPayAccount": false
+  },
+  {
+    "id": "2342334234242dacb",
+    "hasAvatar": false,
+    "avatar": "",
+    "userName": "陈伟",
+    "letter": "伟",
+    "children": [
+    ],
+    "icon": "CCB",
+    "backName": "建设银行",
+    "type": "储蓄卡",
+    "backCode": "6214 0298 0987 0021",
+    "isNew": false,
+    "isUnionPayAccount": false
+  },
+  {
+    "id": "2342334234242bc",
+    "hasAvatar": false,
+    "avatar": "",
+    "userName": "杜寒",
+    "letter": "寒",
+    "children": [
+    ],
+    "icon": "SPDB",
+    "backName": "浦发银行",
+    "type": "储蓄卡",
+    "backCode": "6214 0298 0987 0283",
+    "isNew": false,
+    "isUnionPayAccount": false
+  },
+  {
+    "id": "2342334234242ef",
+    "hasAvatar": false,
+    "avatar": "",
+    "userName": "赵金莱",
+    "letter": "莱",
+    "children": [
+    ],
+    "icon": "GDB",
+    "backName": "广发银行",
+    "type": "储蓄卡",
+    "backCode": "6214 0298 0987 3221",
+    "isNew": false,
+    "isUnionPayAccount": false
+  },
+  {
+    "id": "2342334234242ff",
+    "hasAvatar": false,
+    "avatar": "",
+    "userName": "王雪慧",
+    "letter": "慧",
+    "children": [
+    ],
+    "icon": "ABC",
+    "backName": "农业银行",
+    "type": "储蓄卡",
+    "backCode": "6214 0298 0987 3121",
+    "isNew": false,
+    "isUnionPayAccount": false
+  },
+  {
+    "id": "234233423424ed2",
+    "hasAvatar": false,
+    "avatar": "",
+    "userName": "薛成丽",
+    "letter": "丽",
+    "children": [
+    ],
+    "icon": "HXB",
+    "backName": "华夏银行",
+    "type": "储蓄卡",
+    "backCode": "6214 0298 0987 1930 120",
+    "isNew": false,
+    "isUnionPayAccount": false
+  },
+  {
+    "id": "23423abc34234242",
+    "hasAvatar": false,
+    "avatar": "",
+    "userName": "袁莉莉",
+    "letter": "莉",
+    "children": [
+    ],
+    "icon": "BOB",
+    "backName": "北京银行",
+    "type": "储蓄卡",
+    "backCode": "6214 0298 0987 1931 092",
+    "isNew": false,
+    "isUnionPayAccount": false
+  },
+  {
+    "id": "23423342bbcd34242",
+    "hasAvatar": false,
+    "avatar": "",
+    "userName": "欧阳纳兰",
+    "letter": "兰",
+    "children": [
+    ],
+    "icon": "NBCB",
+    "backName": "宁波银行",
+    "type": "储蓄卡",
+    "backCode": "6214 0298 0987 1931 234",
+    "isNew": false,
+    "isUnionPayAccount": false
+  }
+]
